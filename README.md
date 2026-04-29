@@ -17,7 +17,7 @@
 - Building a **DIY RFID alarm clock** with ESP32 + RC522
 - Lead tech equity investment research at **USF Investment Club** (Merrill Lynch-backed advisory board)
 
-### 🟢 What I'm thinking about 🟢
+### ♦️ What I'm thinking about ♦️
 
 - LLM compression for edge devices contrained by power and latency
 - Neuromorphic computing
@@ -34,10 +34,10 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| **AutoDCF** | Automates DCF data extraction from Yahoo Finance | Python · OpenPyXL · Yahoo Finance API |
+| **Euler** | Created an ElevenLabs powered math tool for visually impaired students | MongoDB · ElevenLabs · Gemma 4 · TypeScript |
+| **Tampa Energy Intelligence** | Scored 1st in Woolpert Challenge, 2nd Overall at Hack-the-Bay | Python · TypeScript · Ollama · Gemma 4 |
+| **AutoDCF** | Automates DCF data extraction from Yahoo Finance | Python · OpenPyXL · PyQt5 · Yahoo Finance API |
 | **RFID Alarm Clock** | Physical alarm that only stops when you scan your RFID tag | ESP32 · RC522 · C++ |
-| **RoofBoost Marketing** | Full-stack lead gen platform for contractors | Google Ads · GoHighLevel · GenAI |
-
 ---
 
 ### 📊 GitHub Stats
@@ -47,11 +47,6 @@
 </p>
 
 ---
-
-### 📬 Connect
-
-- 💼 Open to **internships in data analytics, fintech, and embedded systems**
-- 🌐 Based in **Tampa, FL** — growing up in Seattle
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=thawks05&label=Profile%20views&color=0e75b6&style=flat" alt="thawks05 profile views" />
