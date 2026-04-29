@@ -17,6 +17,11 @@
 - Building a **DIY RFID alarm clock** with ESP32 + RC522
 - Lead tech equity investment research at **USF Investment Club** (Merrill Lynch-backed advisory board)
 
+### 🟢 What I'm thinking about 🟢
+
+- LLM compression for edge devices contrained by power and latency
+- Neuromorphic computing
+  
 ---
 
 ### 🛠 Languages & Tools
