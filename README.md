@@ -10,14 +10,12 @@
 
 ---
 
-### 🟢 What I'm up to
+### 🟢 What I'm up to 🟢
 
-- 🎓 Pursuing a **B.S. in Computer Engineering** at the University of South Florida
-- 📊 Leading investment research at **USF Investment Club** (Merrill Lynch-backed advisory board)
-- 🚀 Founder of **RoofBoost Marketing** — lead gen agency for local contractors (Google Ads, LSAs, GoHighLevel, GenAI)
-- 🔧 Building a **DIY RFID alarm clock** with ESP32 + RC522
-- 🤖 Exploring **local LLM apps** with Gemma 4
-- 🔬 Research mentorship under [Dr. Sudeep Sarkar](https://www.cse.usf.edu/~sarkar/) (Computer Vision & AI, USF)
+- Pursuing a **B.S. in Computer Engineering** at the University of South Florida
+- Exploring **local LLM apps** with **Gemma 4 E2B, E24B**
+- Building a **DIY RFID alarm clock** with ESP32 + RC522
+- Lead tech equity investment research at **USF Investment Club** (Merrill Lynch-backed advisory board)
 
 ---
 
