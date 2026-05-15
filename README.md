@@ -26,11 +26,3 @@
 | [**Tampa Energy Intelligence**](https://github.com/thawks05/Hack-the-Bay-April-2026) | Scored 1st in Woolpert Challenge, 2nd Overall at Hack-the-Bay, created a renewable energy dashboard with local reasoning | Python · TypeScript · Ollama · Gemma 4 |
 | [**AutoDCF**](https://github.com/thawks05/AutoDCF) | Automates DCF data extraction from Yahoo Finance | Python · OpenPyXL · PyQt5 · Yahoo Finance API |
 ---
-
-<code>### 📊 GitHub Stats</code>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thawks05&show_icons=true&locale=en&layout=compact&theme=dark" alt="thawks05 top languages" />
-</p>
-
----
