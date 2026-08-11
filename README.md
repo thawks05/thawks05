@@ -7,12 +7,6 @@
 <code>### 🟢 What I'm up to 🟢</code>
 
 - Pursuing a **B.S. in Computer Engineering** at the University of South Florida
-- Exploring **local LLM apps** with **Gemma 4 E2B, E24B**
-- Lead tech equity investment research at **USF Investment Club** ($800,000 Merrill Lynch-backed advisory board)
-
-<code>### ♦️ What I'm thinking about ♦️</code>
-
-- LLM compression for edge devices
 
 ---
 
