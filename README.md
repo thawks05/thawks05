@@ -4,7 +4,7 @@
 
 ---
 
-<code>### 🟢 What I'm up to 🟢</code>
+<code>🟢 What I'm up to 🟢</code>
 
 - Pursuing a **B.S. in Computer Engineering** at the University of South Florida
 
