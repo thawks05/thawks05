@@ -7,14 +7,16 @@
 <code>🟢 What I'm up to 🟢</code>
 
 - Pursuing a **B.S. in Computer Engineering** at the University of South Florida
+- 🚧 Currently building a **UART core** in SystemVerilog on a Digilent Arty A7
 
 ---
 
-### 📌 Featured Projects
+### Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**4-Bit Ripple-Carry Adder**](https://github.com/thawks05/four-bit-full-adder-verilog) | Gate-level 4-bit adder built from custom half/full adder modules, verified in simulation and deployed to a Xilinx Spartan-7 FPGA | Verilog · Icarus Verilog · Vivado |
-| [**Tampa Energy Intelligence**](https://github.com/thawks05/Hack-the-Bay-April-2026) | Scored 1st in Woolpert Challenge, 2nd Overall at Hack-the-Bay, created a renewable energy dashboard with local reasoning | Python · TypeScript · Ollama · Gemma 4 |
-| [**Half Adder**](https://github.com/thawks05/half_adder_verilog) | Foundational single-bit adder built from primitive XOR/AND gates with a self-checking testbench | Verilog · Icarus Verilog |
+| Project | What it does | Status | Stack |
+|---|---|---|---|
+| [**PIVOT – Hyperdimensional Compute Tile**](https://github.com/thawks05/REPO_NAME) | Hardware tile for hyperdimensional computing (HDC), including cyclic-shift/rotate logic for sequence and position encoding | ✅ Complete | Verilog |
+| [**CMOS Inverter Layout**](https://github.com/thawks05/REPO_NAME) | Transistor-level CMOS inverter layout that passes LVS against its schematic | ✅ Passes LVS | TOOLS · PDK |
+| [**UART Core**](https://github.com/thawks05/REPO_NAME) | Serial UART transmitter/receiver core targeting the Arty A7 FPGA | 🚧 In progress | SystemVerilog · Vivado · Arty A7 |
+
 ---
