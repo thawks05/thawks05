@@ -15,7 +15,7 @@
 
 | Project | What it does | Status | Stack |
 |---|---|---|---|
-| [**PIVOT – Hyperdimensional Compute Tile**](https://github.com/thawks05/CHIA-Hackathon) | Hardware tile for hyperdimensional computing (HDC), including cyclic-shift/rotate logic for sequence and position encoding | ✅ Complete | Verilog S
+| [**PIVOT – Hyperdimensional Compute Tile**](https://github.com/thawks05/CHIA-Hackathon) | Hardware tile for hyperdimensional computing (HDC), including cyclic-shift/rotate logic for sequence and position encoding | ✅ Complete | Verilog
 | [**CMOS Inverter Layout**](https://github.com/thawks05/CMOS-Inverter) | Transistor-level CMOS inverter layout that passes LVS against its schematic | ✅ Passes LVS | KLayout · SKY130 PDK |
 | [**UART Core**](https://github.com/thawks05/UART-Core) | Serial UART transmitter/receiver core targeting the Arty A7 FPGA | 🚧 In progress | SystemVerilog · Vivado · Arty A7 |
 
